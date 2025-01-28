@@ -1,0 +1,5 @@
+Questions:
+1. Find the most used shipment mode.
+2. Find the top 5 profitable states.
+3. Find the top 3 least profitable product sub-categories.
+4. Find the top 10 most profitable cities.

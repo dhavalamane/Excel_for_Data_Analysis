@@ -1,0 +1,8 @@
+Sample Insights:
+• Regular shipment is more used (1437) to compared to other shipments.
+• Oregon, Ohio, New York, Texas and California are the top 5 states.
+• California is more profitable state compared to other states.
+• Polycom ViewStationtmt ISDN Videoconferencing Unit, Okidata Pacemork 4410N Wide Format Dot Matrix Printer and 5165 is top 3 least profitable product.
+• Polycom ViewStationtmt ISDN Videoconferencing Unit is more profitable compared to other profitable products.
+• Washington, Thornton, New City, Harrison, Greenville, Los Angeles, Woodburn, Cincinnati, Bangor and Steubenville is the top 10 most profitable cities.
+• Washington is more profitable city compared to other cities.
